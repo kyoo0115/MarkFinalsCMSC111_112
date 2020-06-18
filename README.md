@@ -2,7 +2,7 @@
 
 This website was made for my final project for my 2 subjects, presenting it to professor Jon.
 
-###IMPORTANT!!!###
+###IMPORTANT!!!
 
 After you downloaded this respository, please import **Marcdonald.sql** to xampp to fully function the website. 
 
